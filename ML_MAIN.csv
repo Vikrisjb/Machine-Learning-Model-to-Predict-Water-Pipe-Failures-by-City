@@ -1,0 +1,98 @@
+NOME,REGIONE,SUPERFICIE (in KMQ),ALT MAX (m),VOLUMI EROGATI (k-m3),PERDITE IDRICHE REALI %,KM RETE - DIAMETRO (100 mm),FUGHE
+Pisa,Toscana,185.18,16,8121,39.8,240.34,71
+Venezia,Veneto,415.9,11,33875,28.7,539.77,160
+Pescara,Abruzzo,34.36,180,10710,49.1,44.6,13
+Oristano,Sardegna,84.57,215,6888,49.1,109.76,33
+Salerno,Campania,59.85,961,12492,56.5,77.68,23
+Lecce,Puglia,241,59,6681,36.2,312.78,93
+Bari,Puglia,117.39,130,21952,49.6,152.35,45
+Taranto,Puglia,249.86,284,13537,40.9,324.28,96
+Brindisi,Puglia,332.98,94,6856,23.7,432.16,128
+Grosseto,Toscana,473.55,455,5619,53.4,614.6,182
+Livorno,Toscana,104.5,462,10086,18.8,135.63,40
+Latina,Lazio,277.62,75,7833,47,360.31,107
+Napoli,Campania,119.02,453,88954,34.3,154.47,46
+Palermo,Sicilia,160.59,1050,41149,45,208.42,62
+Siracusa,Sicilia,207.78,345,9200,43.2,269.66,80
+Sassari,Sardegna,547.04,489,7902,55.2,709.98,211
+Trapani,Sicilia,273.13,778,4239,15,354.48,105
+Agrigento,Sicilia,245.32,674,3034,52.5,318.39,94
+Catania,Sicilia,182.9,379,521,52.5,237.38,70
+Ragusa,Sicilia,444.67,863,5787,52.6,577.11,171
+Messina,Sicilia,213.75,1107,14330,53.1,277.42,82
+Cagliari,Sardegna,85.01,139,587,53.1,110.33,33
+Roma,Lazio,1287.36,380,267640,42.9,1670.79,495
+Catanzaro,Calabria,112.72,668,9000,48.3,146.3,43
+Savona,Liguria,65.32,814,5452,25.2,84.77,25
+Trieste,Friuli-Venezia Giulia,85.11,672,21240,45.7,110.45,33
+Rimini,Emilia-Romagna,135.71,255,13703,20.9,176.13,52
+Crotone,Calabria,182,190,1437,21.9,236.21,70
+Vibo Valentia,Calabria,46.57,567,88,22.9,60.44,18
+Ravenna,Emilia-Romagna,653.82,21,13135,17,848.56,252
+La Spezia,Liguria,51.39,734,9976,36,66.7,20
+Fermo,Marche,124.53,308,1779,37,161.63,48
+Ancona,Marche,124.84,564,8644,20.4,162.03,48
+Genova,Liguria,240.29,1182,55765,23.9,311.86,92
+Imperia,Liguria,45.38,534,648,24.9,58.9,17
+Rovigo,Veneto,108.81,15,3677,38,141.21,42
+Modena,Emilia-Romagna,183.19,69,13212,31.4,237.76,70
+Ferrara,Emilia-Romagna,405.16,15,11539,35.1,525.83,156
+Treviso,Veneto,55.58,27,6148,39.8,72.13,21
+Padova,Veneto,93.03,19,3,40.8,120.73,36
+Lucca,Toscana,185.79,942,7118,30.6,241.13,71
+Chieti,Abruzzo,59.57,336,7142,39.8,77.31,23
+Pordenone,Friuli-Venezia Giulia,38.21,71,3875,9.8,49.59,15
+Mantova,Lombardia,63.81,12,4413,9.6,82.81,25
+Ascoli Piceno,Marche,158.02,1088,3942,21.6,205.09,61
+Vicenza,Veneto,80.57,153,9346,15.9,104.57,31
+Foggia,Puglia,509.26,285,9854,8,660.94,196
+Parma,Emilia-Romagna,260.6,165,15050,35.2,338.22,100
+Caserta,Campania,54.07,585,7760,46.1,70.17,21
+Reggio nell'Emilia,Emilia-Romagna,230.66,107,10599,11.8,299.36,89
+Firenze,Toscana,102.32,307,29450,45.7,132.79,39
+Prato,Toscana,97.35,787,11915,57.2,126.35,37
+Bologna,Emilia-Romagna,140.86,361,30730,23.7,182.81,54
+Verona,Veneto,198.92,655,25930,34.4,258.16,77
+Cremona,Lombardia,70.49,16,7118,22.5,91.49,27
+Gorizia,Friuli-Venezia Giulia,41.26,570,4095,36.1,53.55,16
+Pistoia,Toscana,236.17,1563,5008,45.5,306.51,91
+Piacenza,Emilia-Romagna,118.24,45,8625,11.7,153.45,45
+Matera,Basilicata,392.09,471,4401,43.4,508.87,151
+Macerata,Marche,92.53,258,2585,6.6,120.08,36
+Pavia,Lombardia,63.24,39,9226,12.9,82.08,24
+Lodi,Lombardia,41.38,22,4620,17.9,53.7,16
+Udine,Friuli-Venezia Giulia,57.17,68,10034,9.4,74.2,22
+Alessandria,Piemonte,203.57,196,242,27.09,264.2,78
+Nuoro,Sardegna,192.06,859,185,118.74,249.27,74
+Viterbo,Lazio,406.23,801,6246,35.1,527.23,156
+Benevento,Campania,130.84,399,4597,28.9,169.81,50
+Terni,Umbria,212.43,1008,7039,48.1,275.71,82
+Milano,Lombardia,181.67,47,188023,12.2,235.78,70
+Brescia,Lombardia,90.34,762,18022,22,117.24,35
+Asti,Piemonte,151.31,180,5377,23.6,196.38,58
+Teramo,Abruzzo,152.84,1134,4320,27.7,198.37,59
+Vercelli,Piemonte,79.78,31,3801,20.6,103.54,31
+Novara,Piemonte,103.05,45,9614,23.4,133.74,40
+Frosinone,Lazio,46.85,189,3194,71.9,60.8,18
+Trento,Trentino-Alto Adige,157.88,2023,10588,22,204.9,61
+Siena,Toscana,118.53,247,4564,13.1,153.84,46
+Perugia,Umbria,449.51,790,10880,39,583.39,173
+Caltanissetta,Sicilia,421.25,677,3443,22.2,546.72,162
+Arezzo,Toscana,384.7,898,5030,19.4,499.28,148
+Cosenza,Calabria,37.86,402,9341,24.8,49.14,15
+Lecco,Lombardia,45.14,1681,4064,30.2,58.58,17
+Como,Lombardia,37.12,942,8358,20.9,48.17,14
+Torino,Piemonte,130.01,501,95181,24.6,168.73,50
+Bergamo,Lombardia,40.16,428,11572,16.6,52.12,15
+Enna,Sicilia,358.75,760,1692,33.7,465.6,138
+Varese,Lombardia,54.84,912,7626,26.4,71.17,21
+Belluno,Veneto,147.22,2285,2467,37.1,191.07,57
+Avellino,Campania,30.55,514,3729,46.3,39.65,12
+Sondrio,Lombardia,20.88,1942,2162,16.8,27.09,8
+Isernia,Molise,69.15,604,2235,38.5,89.75,27
+Biella,Piemonte,46.69,2051,3375,20.3,60.6,18
+Rieti,Lazio,206.46,1769,4096,54.7,267.95,79
+Cuneo,Piemonte,119.67,220,5176,34.4,155.31,46
+Campobasso,Molise,56.11,485,103,30.91,72.83,22
+L'Aquila,Abruzzo,473.91,2036,8748,27.7,615.07,182
+Potenza,Basilicata,175.43,742,5230,63.8,227.69,68
